@@ -1,0 +1,33 @@
+*{
+	font-family: Helvetica, sans-serif;
+}
+
+
+.main{
+	flex:1;
+	color: #FFF;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	color: #eee;
+}
+.main img{
+	margin: 20px auto 20px auto ;
+	padding: 10px;
+	width: 90px;
+}
+.main h2{
+	margin: 0;
+	margin-bottom: 12px;
+	font-size: 15px;
+}
+.main p{
+	margin: 0;
+	margin-bottom: 12px;
+	font-size:14px;
+}
+.yourImc{
+	margin-bottom: 10px;
+}
