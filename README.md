@@ -12,4 +12,4 @@ Acesse : [Deploy](https://paulovct.github.io/calc-imc-react)
 
 ## Execução
 
-- `npm rum dev`
+- `npm run dev`
